@@ -1,6 +1,6 @@
 {
   "name": "@ehp/ocsp",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "types": "index.d.ts",
   "description": "OCSP Stapling implementation",
   "main": "lib/ocsp.js",
@@ -16,7 +16,7 @@
   "author": "Fedor Indutny <fedor@indutny.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/indutny/ocsp.git"
+    "url": "git+https://github.com/eugenehp/ocsp.git"
   },
   "license": "MIT",
   "devDependencies": {
