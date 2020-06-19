@@ -1,6 +1,6 @@
 {
-  "name": "ocsp",
-  "version": "1.2.0",
+  "name": "@ehp/ocsp",
+  "version": "1.2.1",
   "types": "index.d.ts",
   "description": "OCSP Stapling implementation",
   "main": "lib/ocsp.js",
